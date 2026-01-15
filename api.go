@@ -2,6 +2,6 @@ package gov2test
 
 import "fmt"
 
-func Public(name string) {
-	fmt.Println(name)
+func Public(number int) {
+	fmt.Println(number)
 }
